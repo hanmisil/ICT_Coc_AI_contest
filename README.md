@@ -42,6 +42,7 @@
 
 ## Demo
 
+![Alt Text](https://user-images.githubusercontent.com/69449727/90872862-35023680-e3d8-11ea-9f5f-1adf1c62c6f1.gif)
 
 ## Bugs and Feature Requests
 
