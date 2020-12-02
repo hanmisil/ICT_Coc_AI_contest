@@ -41,8 +41,8 @@
 
 
 ## Demo
-
-<img src="https://user-images.githubusercontent.com/69449727/90872862-35023680-e3d8-11ea-9f5f-1adf1c62c6f1.gif" />
+<img src="https://user-images.githubusercontent.com/69449727/90902920-2d5a8600-e408-11ea-985b-ba5938ba0ac6.gif" alt="Alt Text" style="max-width:100%;">
+          
 
 ## Bugs and Feature Requests
 
