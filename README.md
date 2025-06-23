@@ -9,10 +9,10 @@
 </p>
    
     
-* * *
+<br><br><br>
 
 
-## Table of Contents
+## 📄Table of Contents
 
 - [Project Introduction](#Project-Introduction)
 - [Project Development Environment and Language](#Project-Development-Environment-and-Language)
@@ -20,10 +20,9 @@
 - [Bugs and Feature Requests](#Bugs-and-Feature-Requests)
 - [About the Contributor](#About-the-Contributor)
 
+<br><br><br>
 
-## Project Introduction
-
-### 분실물을 찾아주는 챗봇
+## 🎯분실물을 찾아주는 챗봇
 
  평소 물건을 잃어버렸을 때, 내가 탑승한 모든 대중교통 분실물 센터에 일일이 전화하던 경험이 한 번씩은 있을 것이다.
  
@@ -31,25 +30,29 @@
  
  이렇게 물건을 잃어버린 사람들이 더욱 쉽게 자신의 물건을 찾을 수 있도록 도움을 주는 챗봇을 개발하고자 한다.
 
+<br><br><br>
 
-## Project Development Environment and Language
+## 🛠Project Development Environment and Language
 - Windows10
 - DB : MySQL
 - Server : Express.js
 - Network : Node.js
 - Front : React.js
 
+<br><br><br>
 
-## Demo
+## 🖼️Demo
 <img src="https://user-images.githubusercontent.com/69449727/90902920-2d5a8600-e408-11ea-985b-ba5938ba0ac6.gif" alt="Alt Text" style="max-width:100%;">
           
+<br><br><br>
 
-## Bugs and Feature Requests
+## ✅Bugs and Feature Requests
 
 [**Please do requests here.**](https://github.com/alsrud9909/ICT_Coc_AI_contest/issues)
 
+<br><br><br>
 
-## About the Contributor
+## 👥About the Contributor
 
 **Choi MinKyeong**
 - [**@alsrud9909**](https://github.com/alsrud9909)   
@@ -64,4 +67,4 @@
 - <dbtldm@ajou.ac.kr>
 
 
-* * *
+<br><br><br>
